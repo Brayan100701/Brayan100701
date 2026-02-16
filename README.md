@@ -2,7 +2,7 @@
 
 ### Software Engineer & Architecture Enthusiast
 
-I am a developer based in **Mexico** with a deep passion for **Software Architecture** and building scalable, efficient applications. I thrive on turning complex problems into clean, maintainable code. Whether it's data manipulation in Python or building robust backends in C#, I'm always looking for the most "architecturally sound" way to build.
+I am an engenieer based in **Mexico** with a deep passion for Technology in general, software development and building scalable, efficient applications. I thrive on turning complex problems into clean, maintainable code. Whether it's data manipulation in Python or building robust backends in C#.
 
 ---
 
