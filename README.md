@@ -24,8 +24,5 @@ I am an engenieer based in **Mexico** with a deep passion for Technology in gene
 
 ### 🔭 What I’m Focusing On
 - 🌐 **Modern Web:** Building type-safe applications with TypeScript, React and C#.
-
+- ⚡ **Constant improvements** Constantly learning about new technologies.
 ---
-
-### 📫 Let's Connect!
-- 💼 [LinkedIn](www.linkedin.com/in/brayan-benjamín-sánchez-guillén-362b1a3a2)
