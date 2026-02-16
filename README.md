@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Brayan Sanchez 👋 🇲🇽
 
-<!--
-**Brayan100701/Brayan100701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer & Architecture Enthusiast
 
-Here are some ideas to get you started:
+I am a developer based in **Mexico** with a deep passion for **Software Architecture** and building scalable, efficient applications. I thrive on turning complex problems into clean, maintainable code. Whether it's data manipulation in Python or building robust backends in C#, I'm always looking for the most "architecturally sound" way to build.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 My Tech Stack
+
+**Languages**
+- 🐍 **Python** | 🔷 **C#** | 📜 **JavaScript & TypeScript** - 🗄️ **SQL** | 🌐 **HTML5 & CSS3**
+
+**Frameworks & Libraries**
+- ⚛️ **React** (Frontend Excellence)
+- 🏗️ **Entity Framework** (Robust Data Access)
+- 📊 **Data Science:** Pandas, Numpy, Matplotlib
+
+**Tools & Technologies**
+- 🟢 **Node.js** | 📦 **Anaconda**
+- 🧪 **Postman** (API Testing) | 🎨 **Bootstrap** (UI/UX)
+
+---
+
+### 🔭 What I’m Focusing On
+- 🌐 **Modern Web:** Building type-safe applications with TypeScript, React and C#.
+
+---
+
+### 📫 Let's Connect!
+- 💼 [LinkedIn](www.linkedin.com/in/brayan-benjamín-sánchez-guillén-362b1a3a2)
